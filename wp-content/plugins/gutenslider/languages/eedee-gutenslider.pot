@@ -1,0 +1,717 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: src/blocks/blocks_free.js:62
+#: src/blocks/blocks_pro.js:63
+msgid "Gutenslider"
+msgstr ""
+
+#: src/blocks/blocks_free.js:63
+msgid "Slider Block for Gutenberg that slides images with arbitrary blocks on top."
+msgstr ""
+
+#: src/blocks/blocks_free.js:67
+#: src/blocks/blocks_pro.js:68
+msgid "Slider"
+msgstr ""
+
+#: src/blocks/blocks_free.js:86
+#: src/blocks/blocks_pro.js:89
+msgid "Gutenslide"
+msgstr ""
+
+#: src/blocks/blocks_free.js:87
+#: src/blocks/blocks_pro.js:90
+msgid "Single Slide for Gutenslider."
+msgstr ""
+
+#: src/blocks/blocks_free.js:91
+#: src/blocks/blocks_pro.js:94
+msgid "Slide"
+msgstr ""
+
+#: src/blocks/blocks_free.js:92
+#: src/blocks/blocks_pro.js:95
+#: src/components/reusable/background/panel.js:198
+msgid "Image"
+msgstr ""
+
+#: src/blocks/blocks_free.js:93
+#: src/blocks/blocks_pro.js:96
+msgid "Carousel"
+msgstr ""
+
+#: src/blocks/blocks_pro.js:64
+msgid ""
+"Slider Block for Gutenberg that slides images and videos with arbitrary "
+"blocks on top."
+msgstr ""
+
+#: src/blocks/example.js:33
+#. example text for slide 1.
+msgid "Slide 1"
+msgstr ""
+
+#: src/blocks/example.js:55
+#. example text for slide 2.
+msgid "Slide 2"
+msgstr ""
+
+#: src/blocks/example.js:78
+#. example text for slide 3.
+msgid "Slide 3"
+msgstr ""
+
+#: src/blocks/filters.js:40
+#: src/blocks/filters_pro.js:48
+msgid "Slider Id"
+msgstr ""
+
+#: src/blocks/filters.js:45
+#: src/blocks/filters_pro.js:60
+msgid "Show On Desktop"
+msgstr ""
+
+#: src/blocks/filters.js:48
+#: src/blocks/filters_pro.js:63
+msgid "Slider is shown on large screens."
+msgstr ""
+
+#: src/blocks/filters.js:48
+#: src/blocks/filters_pro.js:63
+msgid "Slider is hidden on large screens."
+msgstr ""
+
+#: src/blocks/filters.js:51
+#: src/blocks/filters_pro.js:66
+msgid "Show On Tablet"
+msgstr ""
+
+#: src/blocks/filters.js:54
+#: src/blocks/filters_pro.js:69
+msgid "Slider is shown on medium screens."
+msgstr ""
+
+#: src/blocks/filters.js:54
+#: src/blocks/filters_pro.js:69
+msgid "Slider is hidden on medium screens."
+msgstr ""
+
+#: src/blocks/filters.js:57
+#: src/blocks/filters_pro.js:72
+msgid "Show On Mobile"
+msgstr ""
+
+#: src/blocks/filters.js:60
+#: src/blocks/filters_pro.js:75
+msgid "Slider is shown on small screens."
+msgstr ""
+
+#: src/blocks/filters.js:60
+#: src/blocks/filters_pro.js:75
+msgid "Slider is hidden on small screens."
+msgstr ""
+
+#: src/blocks/filters.js:75
+#: src/blocks/filters_pro.js:90
+msgid "Slide Id"
+msgstr ""
+
+#: src/blocks/filters_pro.js:53
+#: src/blocks/gutenslide/block_free/inspector-controls.js:40
+#: src/blocks/gutenslide/block_pro/inspector-controls.js:41
+msgid "Automatic Captions"
+msgstr ""
+
+#: src/blocks/filters_pro.js:57
+msgid ""
+"Changing this will eventually add a paragraph block to all slides, that "
+"contains the selected content"
+msgstr ""
+
+#: src/blocks/gutenslide/attributes.js:73
+#: src/blocks/gutenslider/attributes.js:253
+msgid "↑ bottom to top"
+msgstr ""
+
+#: src/blocks/gutenslide/attributes.js:74
+#: src/blocks/gutenslider/attributes.js:252
+msgid "↓ top to bottom"
+msgstr ""
+
+#: src/blocks/gutenslide/attributes.js:75
+#: src/blocks/gutenslider/attributes.js:254
+msgid "→ left to right"
+msgstr ""
+
+#: src/blocks/gutenslide/attributes.js:76
+#: src/blocks/gutenslider/attributes.js:255
+msgid "← right to left"
+msgstr ""
+
+#: src/blocks/gutenslide/attributes.js:86
+#: src/blocks/gutenslider/attributes.js:284
+msgid "Style 1"
+msgstr ""
+
+#: src/blocks/gutenslide/attributes.js:87
+#: src/blocks/gutenslider/attributes.js:285
+msgid "Style 2"
+msgstr ""
+
+#: src/blocks/gutenslide/attributes.js:88
+#: src/blocks/gutenslider/attributes.js:286
+msgid "Style 3"
+msgstr ""
+
+#: src/blocks/gutenslide/attributes.js:89
+#: src/blocks/gutenslider/attributes.js:287
+msgid "Style 4"
+msgstr ""
+
+#: src/blocks/gutenslide/attributes.js:93
+msgid "No Automatic Captions"
+msgstr ""
+
+#: src/blocks/gutenslide/attributes.js:94
+msgid "Caption Only"
+msgstr ""
+
+#: src/blocks/gutenslide/attributes.js:95
+msgid "Title - Caption"
+msgstr ""
+
+#: src/blocks/gutenslide/attributes.js:96
+msgid "Title - Caption - Description"
+msgstr ""
+
+#: src/blocks/gutenslide/block_free/edit.js:161
+#: src/blocks/gutenslide/block_pro/edit.js:168
+#: src/blocks/gutenslider/block_pro/edit.js:507
+msgid "Change content position"
+msgstr ""
+
+#: src/blocks/gutenslide/block_free/edit.js:33
+#: src/blocks/gutenslide/block_pro/edit.js:33
+msgid "Add slide content here…"
+msgstr ""
+
+#: src/blocks/gutenslide/block_free/inspector-controls.js:30
+#: src/blocks/gutenslide/block_pro/inspector-controls.js:31
+msgid "Slide Settings"
+msgstr ""
+
+#: src/blocks/gutenslide/block_free/inspector-controls.js:34
+#: src/blocks/gutenslide/block_pro/inspector-controls.js:35
+msgid "Slide Link"
+msgstr ""
+
+#: src/blocks/gutenslide/block_free/inspector-controls.js:37
+msgid "Set an url that opens, when the user clicks the slide."
+msgstr ""
+
+#: src/blocks/gutenslide/block_pro/inspector-controls.js:38
+msgid "Set an url that opens, when the user clicks the slide"
+msgstr ""
+
+#: src/blocks/gutenslider/attributes.js:256
+msgid "↙ top right to bottom left"
+msgstr ""
+
+#: src/blocks/gutenslider/attributes.js:257
+msgid "↘ top left to bottom right"
+msgstr ""
+
+#: src/blocks/gutenslider/attributes.js:258
+msgid "↖ bottom right to top left"
+msgstr ""
+
+#: src/blocks/gutenslider/attributes.js:259
+msgid "↗ bottom left to top right"
+msgstr ""
+
+#: src/blocks/gutenslider/attributes.js:267
+msgid "Style 5"
+msgstr ""
+
+#: src/blocks/gutenslider/attributes.js:268
+msgid "Style 6"
+msgstr ""
+
+#: src/blocks/gutenslider/attributes.js:269
+msgid "Style 7"
+msgstr ""
+
+#: src/blocks/gutenslider/attributes.js:270
+msgid "Style 8"
+msgstr ""
+
+#: src/blocks/gutenslider/attributes.js:271
+msgid "Style 9"
+msgstr ""
+
+#: src/blocks/gutenslider/attributes.js:272
+msgid "Style 10"
+msgstr ""
+
+#: src/blocks/gutenslider/attributes.js:276
+#: src/blocks/gutenslider/block_free/inspector-controls.js:334
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:142
+msgid "Left + Right"
+msgstr ""
+
+#: src/blocks/gutenslider/attributes.js:277
+msgid "Top Left"
+msgstr ""
+
+#: src/blocks/gutenslider/attributes.js:278
+msgid "Top Right"
+msgstr ""
+
+#: src/blocks/gutenslider/attributes.js:279
+msgid "Bottom Left"
+msgstr ""
+
+#: src/blocks/gutenslider/attributes.js:280
+msgid "Bottom Right"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/edit.js:549
+#: src/blocks/gutenslider/block_pro/edit.js:528
+msgid "Edit Slides"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/edit.js:558
+#: src/blocks/gutenslider/block_pro/edit.js:537
+msgid "Preview Slider"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/edit.js:558
+#: src/blocks/gutenslider/block_pro/edit.js:537
+msgid "Edit Slide Content"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/edit.js:788
+#: src/blocks/gutenslider/block_pro/edit.js:800
+msgid "Add Empty Slide"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/edit.js:800
+#: src/blocks/gutenslider/block_pro/edit.js:812
+msgid "Select background media from your library or add an empty slide."
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/edit.js:820
+#: src/blocks/gutenslider/block_pro/edit.js:832
+msgid "Media Library"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/edit.js:831
+#: src/blocks/gutenslider/block_pro/edit.js:843
+msgid "Add empty slide"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:107
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:413
+msgid "Slider Settings"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:111
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:417
+msgid "Fade Mode"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:133
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:439
+msgid "Slide Mode"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:155
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:461
+msgid "Adaptive Height"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:192
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:498
+msgid "Autoplay"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:197
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:304
+msgid "Show Arrows"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:206
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:250
+msgid "Show Dots"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:215
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:509
+msgid "Loop"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:220
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:514
+msgid "Fullscreen Background Slider"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:222
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:516
+msgid ""
+"Full Screen Background Slider preview is not available in the editor, check "
+"the live site to see it in action."
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:227
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:543
+msgid "Autoplay Settings"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:235
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:551
+msgid "Pause on Focus"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:240
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:556
+msgid "Pause on Hover"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:245
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:561
+msgid "Pause on Dots Hover"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:257
+msgid "Arrow Size (px)"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:265
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:622
+msgid "Arrow Color"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:293
+msgid "Dot Size (px)"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:302
+msgid "Parallax Settings"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:306
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:705
+msgid "Parallax"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:317
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:717
+msgid "Parallax Amount"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:327
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:747
+msgid "Spacing"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:345
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:169
+msgid "Top + Bottom"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:356
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:778
+msgid "Art Settings"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:360
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:782
+msgid "Mix Blend Mode"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:373
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:795
+msgid "Enable Preview"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:374
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:796
+msgid "Enable or disable the preview of \"Mix Blend Mode\" setting above"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:379
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:801
+msgid "Content Opacity"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:64
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:315
+msgid "Desktop"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:72
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:323
+msgid "Tablet"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:80
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:115
+msgid "Slider Height"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:80
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:331
+msgid "Mobile"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:88
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:393
+msgid "Arrow Settings"
+msgstr ""
+
+#: src/blocks/gutenslider/block_free/inspector-controls.js:97
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:402
+msgid "Dot Settings"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:195
+msgid "Slides to Show"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:222
+msgid "Slides to Scroll"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:277
+msgid "Dot Size"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:331
+msgid "Arrow Size"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:358
+msgid "Arrow X Offset"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:385
+msgid "Arrow Y Offset"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:520
+msgid "Animation Speed (sec)"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:566
+msgid "Slide Duration (sec)"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:581
+msgid "Arrow Style"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:587
+msgid "Arrow Position"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:614
+msgid "Arrow Horizontal Spacing"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:631
+msgid "Arrow Background Color"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:640
+msgid "Arrow Hover Color"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:649
+msgid "Arrow Hover Background Color"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:658
+msgid "Arrow Mix Blend Mode"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:678
+msgid "Dot Style"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:691
+msgid "Dot Color"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:699
+msgid "Effects"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:708
+msgid "Parallax is only enabled in the frontend. Check out the live results there."
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:726
+msgid "Colors"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:736
+msgid "Arrows Color"
+msgstr ""
+
+#: src/blocks/gutenslider/block_pro/inspector-controls.js:741
+msgid "Dots Color"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:153
+msgid "None"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:164
+msgid "Color"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:181
+msgid "Gradient"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:211
+msgid "Video"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:227
+msgid "Background Settings"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:231
+msgid "Background Type"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:248
+msgid ""
+"The color is shown, because you selected that the background image should "
+"have an overlay. To disable it or to change the opacity, go to the image "
+"settings and change the \"Overlay\" option."
+msgstr ""
+
+#: src/components/reusable/background/panel.js:251
+msgid ""
+"The color is shown, because you selected that the background video should "
+"have an overlay. To disable it or to change the opacity, go to the video "
+"settings and change the \"Overlay\" option."
+msgstr ""
+
+#: src/components/reusable/background/panel.js:263
+msgid ""
+"The gradient is shown, because you selected that the background image "
+"should have an overlay. To disable it or to change the opacity, go to the "
+"image settings and change the \"Overlay\" option."
+msgstr ""
+
+#: src/components/reusable/background/panel.js:266
+msgid ""
+"The gradient is shown, because you selected that the background video "
+"should have an overlay. To disable it or to change the opacity, go to the "
+"video settings and change the \"Overlay\" option."
+msgstr ""
+
+#: src/components/reusable/background/panel.js:269
+msgid "Gradient Options"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:341
+msgid "Select Background Video"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:365
+msgid "Mute Video"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:366
+msgid "Muting the background video."
+msgstr ""
+
+#: src/components/reusable/background/panel.js:366
+msgid "Toggle to mute the video."
+msgstr ""
+
+#: src/components/reusable/background/panel.js:371
+msgid "Loop Video"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:372
+msgid "Looping the background video."
+msgstr ""
+
+#: src/components/reusable/background/panel.js:372
+msgid "Toggle to loop the video."
+msgstr ""
+
+#: src/components/reusable/background/panel.js:377
+msgid "Overlay"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:387
+msgid "Overlay Opacity"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:397
+msgid "Display"
+msgstr ""
+
+#: src/components/reusable/gradient-picker/gradient-picker.js:39
+msgid "Gradient Presets"
+msgstr ""
+
+#: src/components/reusable/media-picker/media-picker.js:105
+msgid "Remove Image"
+msgstr ""
+
+#: src/components/reusable/media-picker/media-picker.js:105
+msgid "Remove Video"
+msgstr ""
+
+#: src/components/reusable/media-picker/media-picker.js:63
+msgid "Select Background Image"
+msgstr ""
+
+#: src/components/reusable/media-picker/media-picker.js:90
+msgid "Focal Point"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:136
+msgctxt "block layout"
+msgid "Cover"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:137
+msgctxt "block layout"
+msgid "Contain"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:138
+msgctxt "block layout"
+msgid "Fill"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:139
+msgctxt "block layout"
+msgid "None"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:143
+msgctxt "block layout"
+msgid "No Overlay"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:144
+msgctxt "block layout"
+msgid "Overlay Selected Color"
+msgstr ""
+
+#: src/components/reusable/background/panel.js:145
+msgctxt "block layout"
+msgid "Overlay Selected Gradient"
+msgstr ""
